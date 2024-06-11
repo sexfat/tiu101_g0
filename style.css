@@ -28,3 +28,13 @@ nav > ul > li {
    background-color: #fe9696;
 
 }
+
+nav > ul > li > a {
+   display: block;
+   background-color: #96ff9b;
+   color: #fff;
+}
+
+nav > ul > li > a:hover {
+    background-color: #41ec4a;
+}
